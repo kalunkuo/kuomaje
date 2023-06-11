@@ -40,29 +40,3 @@ I currently work at [Henning Larsen](https://henninglarsen.com).
 
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=blue)](https://www.linkedin.com/in/ashkanrezaee/)
 
-
-
-### This is my playground in web
-
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
-
-## About this app
-It's on top of shadcn nice ui and template:
-
-```bash
-npx create-next-app -e https://github.com/shadcn/next-template
-```
-
-## Features
-
-- Radix UI Primitives
-- Tailwind CSS
-- Fonts with `next/font`
-- Icons from [Lucide](https://lucide.dev)
-- Dark mode with `next-themes`
-- Automatic import sorting with `@ianvs/prettier-plugin-sort-imports`
-- Tailwind CSS class sorting, merging and linting.
-
-## License
-
-Licensed under the [MIT license](https://github.com/aashkann/ui/blob/main/LICENSE.md).

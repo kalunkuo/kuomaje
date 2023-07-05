@@ -34,7 +34,8 @@ I currently work at [Henning Larsen](https://henninglarsen.com).
 ### I'm currently learning...
 
 ![](https://img.shields.io/static/v1?label=Google&logo=google&message=Cloud%20Platform&style=for-the-badge&color=blue&labelColor=black)
-![](https://img.shields.io/static/v1?label=Cloud_Computation&logo=processor&message=GPU Computing&style=for-the-badge&color=blue&labelColor=black)
+![](https://img.shields.io/static/v1?label=Cloud%20Computation&logo=google&message=GPU%20Computing&style=for-the-badge&color=blue&labelColor=black)
+
 
 ### Contact me at...
 

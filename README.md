@@ -19,22 +19,30 @@ I currently work at [Henning Larsen](https://henninglarsen.com).
 
 
 ### Languages and Technologies I currently use:
-![](https://img.shields.io/static/v1?label=&logo=vue.js&message=Vue.js&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label=&logo=react&message=React&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label=&logo=next.js&message=Next.js&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label=&logo=prisma&message=Prisma&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=vue.js&message=Vue.js&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label=&logo=graphql&message=GraphQL&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=vercel&message=Vercel&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=prisma&message=Prisma&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=heroku&message=Heroku&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=firebase&message=Firebase&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=gcp&message=GCP%20Vertex&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=azure&message=Azure&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=eto-form&message=ETO.form&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=docker&message=Docker&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=kubernetes&message=Kubernetes&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=mongodb&message=MongoDB&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label=&logo=postgresql&message=PostgreSQL&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label&logo=firebase&message=Firebase&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label&logo=heroku&message=heroku&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label=&logo=node.js&message=Node.js&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label=&logo=npm&message=NPM&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label=github&logo=github&message=actions&style=for-the-badge&color=blue&labelColor=black)
+![](https://img.shields.io/static/v1?label=&logo=figma&message=Figma&style=for-the-badge&color=black)
 
 ### I'm currently learning...
 
 ![](https://img.shields.io/static/v1?label=Google&logo=google&message=Cloud%20Platform&style=for-the-badge&color=blue&labelColor=black)
 ![](https://img.shields.io/static/v1?label=Cloud%20Computation&logo=google&message=GPU%20Computing&style=for-the-badge&color=blue&labelColor=black)
+![](https://img.shields.io/static/v1?label=GitHub%20Actions&logo=github&message=GitHub%20Actions&style=for-the-badge&color=blue&labelColor=black)
+![](https://img.shields.io/static/v1?label=Linux%20Command%20Lines&logo=linux&message=Linux%20Command%20Lines&style=for-the-badge&color=blue&labelColor=black)
+![](https://img.shields.io/static/v1?label=Swift&logo=swift&message=Swift&style=for-the-badge&color=blue&labelColor=black)
+![](https://img.shields.io/static/v1?label=React%20Native&logo=react&message=React%20Native&style=for-the-badge&color=blue&labelColor=black)
 
 
 ### Contact me at...

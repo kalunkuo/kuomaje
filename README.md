@@ -40,7 +40,7 @@ I currently work at [Henning Larsen](https://henninglarsen.com).
 ![](https://img.shields.io/static/v1?label=&logo=huggingface&message=Llama%20&%20Stable%20Diffusion&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label=&logo=github&message=GitHub%20Actions&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label=&logo=linux&message=Linux%20Command%20Line&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label=&logo=linux&message=Linux%20Command%20Line&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=swift&message=swift&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label=&logo=React&message=React%20Native&style=for-the-badge&color=black)
 
 

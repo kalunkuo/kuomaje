@@ -36,13 +36,14 @@ I currently work at [Henning Larsen](https://henninglarsen.com).
 ![](https://img.shields.io/static/v1?label=&logo=figma&message=Figma&style=for-the-badge&color=black)
 
 ### I'm currently learning...
+![](https://img.shields.io/static/v1?label=&logo=google&message=HPC%20Setup&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=huggingface&message=Llama%20&%20Stable%20Diffusion&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=github&message=GitHub%20Actions&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=linux&message=Linux%20Command%20Line&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=linux&message=Linux%20Command%20Line&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label=&logo=React&message=React%20Native&style=for-the-badge&color=black)
 
-![HPC Setup](https://img.shields.io/static/v1?label=HPC%20Setup&logo=google&message=&style=for-the-badge&color=black)
-![Llama & Stable Diffusion](https://img.shields.io/static/v1?label=Llama%20%26%20Stable%20Diffusion&logo=huggingface&message=&style=for-the-badge&color=black)
-![GitHub Actions](https://img.shields.io/static/v1?label=GitHub%20Actions&logo=github&message=&style=for-the-badge&color=black)
-![Linux Command Line](https://img.shields.io/static/v1?label=Linux%20Command%20Line&logo=linux&message=&style=for-the-badge&color=black)
-![Swift](https://img.shields.io/static/v1?label=Swift&logo=swift&message=&style=for-the-badge&color=black)
-![React Native](https://img.shields.io/static/v1?label=React%20Native&logo=react&message=&style=for-the-badge&color=black)
+
 
 
 

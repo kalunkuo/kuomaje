@@ -37,12 +37,12 @@ I currently work at [Henning Larsen](https://henninglarsen.com).
 
 ### I'm currently learning...
 
-![](https://img.shields.io/static/v1?label=Google&logo=google&message=Cloud%20Platform&style=for-the-badge&color=blue&labelColor=black)
-![](https://img.shields.io/static/v1?label=Cloud%20Computation&logo=google&message=GPU%20Computing&style=for-the-badge&color=blue&labelColor=black)
-![](https://img.shields.io/static/v1?label=GitHub%20Actions&logo=github&message=GitHub%20Actions&style=for-the-badge&color=blue&labelColor=black)
-![](https://img.shields.io/static/v1?label=Linux%20Command%20Lines&logo=linux&message=Linux%20Command%20Lines&style=for-the-badge&color=blue&labelColor=black)
+![](https://img.shields.io/static/v1?label=HPC%20Setup&logo=google&message=&style=for-the-badge&color=blue&labelColor=black)
+![Hugging Face](https://img.shields.io/static/v1?label=Llama%20&%20Stable%20dissusion&logo=huggingface&style=for-the-badge&color=red&labelColor=black)
+![](https://img.shields.io/static/v1?label=GitHub%20Actions&logo=github&message=&color=blue&labelColor=black)
+![](https://img.shields.io/static/v1?label=Linux%20Command%20Lines&logo=linux&message=&style=for-the-badge&color=blue&labelColor=black)
 ![](https://img.shields.io/static/v1?label=Swift&logo=swift&message=Swift&style=for-the-badge&color=blue&labelColor=black)
-![](https://img.shields.io/static/v1?label=React%20Native&logo=react&message=React%20Native&style=for-the-badge&color=blue&labelColor=black)
+![](https://img.shields.io/static/v1?label=React%20Native&logo=react&message=&style=for-the-badge&color=blue&labelColor=black)
 
 
 ### Contact me at...

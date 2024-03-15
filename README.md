@@ -1,6 +1,6 @@
 :blush: Hi, I'm [Karen Kuo](#), a , _computational designer_, _programmer_ and _creative technologist_  based in New York. My background is 
 
-I currently work at [Skidmore, Owings & Merrill (SOM)]([https://henninglarsen.com](https://www.som.com)) as a BIM Technologist where I develop plugins to optimize workflow.  
+I currently work at [Skidmore, Owings & Merrill (SOM)]((https://www.som.com)) as a BIM Technologist where I develop plugins to optimize workflow.  
 
 
 ### Let's connect

@@ -1,5 +1,3 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aashkann\&rank_icon=github)
-
 ### Hey!
 
 I'm [Ashkan](#), a , _computational designer_, _programmer_ and _architect_  based in Copenhagen. I work with everything related to technology, design and construction, sometimes at the same time, sometimes seperatly.
@@ -38,4 +36,4 @@ I currently work at [Henning Larsen](https://henninglarsen.com).
 
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=blue)](https://www.linkedin.com/in/ashkanrezaee/)
 
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aashkann\&rank_icon=github)

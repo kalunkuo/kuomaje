@@ -23,15 +23,10 @@ I currently work at [Skidmore, Owings & Merrill (SOM)]([https://henninglarsen.co
 ![](https://img.shields.io/static/v1?label=&logo=docker&message=Docker&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label=&logo=mongodb&message=MongoDB&style=for-the-badge&color=black)
 
-### I'm currently learning...
-![PostgreSQL](https://img.shields.io/static/v1?label=&logo=postgresql&message=PostgreSQL&style=for-the-badge&color=black)
-![C++](https://img.shields.io/static/v1?label=&logo=cplusplus&message=C%2B%2B&style=for-the-badge&color=black)
-![Drizzle](https://img.shields.io/static/v1?label=&message=Drizzle&style=for-the-badge&color=black)
-![Supabase](https://img.shields.io/static/v1?label=&logo=supabase&message=Supabase&style=for-the-badge&color=black)
 
 
 ### Let's connect
 
-[![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=blue)](https://www.linkedin.com/in/ashkanrezaee/)
+[![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=blue)]([https://www.linkedin.com/in/ashkanrezaee/](https://www.linkedin.com/in/kalunkuo/))
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aashkann\&rank_icon=github)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kalunkuo\&rank_icon=github)

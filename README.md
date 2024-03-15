@@ -1,8 +1,8 @@
 ### Hey!
 
-I'm [Ashkan](#), a , _computational designer_, _programmer_ and _architect_  based in Copenhagen. I work with everything related to technology, design and construction, sometimes at the same time, sometimes seperatly.
+I'm [Karen Kuo](#), a , _computational designer_, _programmer_ and _architect_  based in New York. I work with everything related to technology, design and construction, sometimes at the same time, sometimes seperatly.
 
-I currently work at [Henning Larsen](https://henninglarsen.com).
+I currently work at [Skidmore, Owings & Merrill (SOM)]([https://henninglarsen.com](https://www.som.com)).
 
 ### Languages I currently use the most are:
 ![](https://img.shields.io/static/v1?label&logo=typescript&message=Typescript&style=for-the-badge&color=black&logoColor=blue)

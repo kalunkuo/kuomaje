@@ -22,14 +22,12 @@ I currently work at [Henning Larsen](https://henninglarsen.com).
 ![](https://img.shields.io/static/v1?label=&logo=eto-form&message=ETO.form&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label=&logo=docker&message=Docker&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label=&logo=mongodb&message=MongoDB&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label=&logo=postgresql&message=PostgreSQL&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label=&logo=figma&message=Figma&style=for-the-badge&color=black)
 
 ### I'm currently learning...
-![](https://img.shields.io/static/v1?label=&logo=google&message=HPC%20Setup&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label=&logo=huggingface&message=Llama%20&%20Stable%20Diffusion&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label=&logo=github&message=GitHub%20Actions&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label=&logo=linux&message=Linux%20Command%20Line&style=for-the-badge&color=black)
+![PostgreSQL](https://img.shields.io/static/v1?label=&logo=postgresql&message=PostgreSQL&style=for-the-badge&color=black)
+![C++](https://img.shields.io/static/v1?label=&logo=cplusplus&message=C%2B%2B&style=for-the-badge&color=black)
+![Drizzle](https://img.shields.io/static/v1?label=&message=Drizzle&style=for-the-badge&color=black)
+![Supabase](https://img.shields.io/static/v1?label=&logo=supabase&message=Supabase&style=for-the-badge&color=black)
 
 
 ### Let's connect
